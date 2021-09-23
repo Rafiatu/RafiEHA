@@ -1,4 +1,4 @@
 # RafiEHA
 
 ## Contributors
-[![](https://github.com/Rafiatu.png?size=50)](https://github.com/Rafiatu)
+[![](https://github.com/Rafiatu.png?size=100)](https://github.com/Rafiatu)
