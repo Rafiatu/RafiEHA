@@ -1,4 +1,4 @@
 # RafiEHA
 
 ## Contributors
-[Rafiat Bello](https://github.com/Rafiatu)
+[](https://github.com/Rafiatu)
